@@ -54,3 +54,4 @@ let userChoice = prompt(
 
 // Log the user's response (no validation required)
 console.log("User response:", userChoice);
+<script src="script.js"></script>
